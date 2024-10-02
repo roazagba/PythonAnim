@@ -1,7 +1,5 @@
 # PythonAnim
 
----
-
 Auteurs:
 
 1. AZAGBA Roméo
@@ -12,6 +10,12 @@ Auteurs:
 ---
 
 ## _Projet: Plateforme d'éxécution et d’animation d’Algorithme (Python)_
+
+### Démonstration
+
+![alt Demo](PythonAnim.gif)
+
+---
 
 ## Documentation technique Flask
 
@@ -68,7 +72,3 @@ VITE_APP_NAME="PythonAnim"   # Nom de l'application
 ```bash
 npm run dev
 ```
-
-### Démonstration
-
-![alt Demo](PythonAnim.gif)
