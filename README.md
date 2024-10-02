@@ -68,3 +68,7 @@ VITE_APP_NAME="PythonAnim"   # Nom de l'application
 ```bash
 npm run dev
 ```
+
+### Démonstration
+
+![alt Demo](PythonAnim.gif)

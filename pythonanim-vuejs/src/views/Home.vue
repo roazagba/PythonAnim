@@ -13,7 +13,11 @@ import Footer from "@/components/Footer.vue";
         </h1>
       </div>
       <div class="col-lg-3 col-md-4 col-sm-12 mt-4 text-center">
-        <a href="#" class="btn btn-primary btn-style">Exécution</a>
+        <router-link
+          :to="{ name: 'programmer' }"
+          class="btn btn-primary btn-style"
+          >Run code</router-link
+        >
       </div>
       <div class="col-lg-6 col-md-8 col-sm-12 mt-4 text-center text-md-start">
         <p>

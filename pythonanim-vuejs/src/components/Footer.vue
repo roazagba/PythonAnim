@@ -19,7 +19,7 @@
           <router-link
             :to="{ name: 'programmer' }"
             class="text-black text-decoration-none mb-2 mb-lg-0 color-white"
-            >Exécution</router-link
+            >Run code</router-link
           >
 
           <router-link
@@ -32,11 +32,11 @@
             href="#"
             class="text-black text-decoration-none mb-2 mb-lg-0 color-white"
           >
-            <i class="bi bi-envelope-fill"></i> hi@ogenacy.com
+            <i class="bi bi-envelope-fill"></i> us@us.com
           </a>
 
           <a href="#" class="text-black text-decoration-none color-white">
-            <i class="bi bi-telephone-fill"></i> 432 - 221 - 8763
+            <i class="bi bi-telephone-fill"></i> 00 00 00 00
           </a>
         </div>
       </div>

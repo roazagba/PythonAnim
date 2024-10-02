@@ -42,7 +42,7 @@ const isActiveRoute = (name) => {
             class="nav-link text-white ms-5"
             :class="{ 'text-primary': isActiveRoute('programmer') }"
             :to="{ name: 'programmer' }"
-            >Exécution</router-link
+            >Run Code</router-link
           >
           <router-link
             class="nav-link text-white ms-5"
