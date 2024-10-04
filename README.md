@@ -13,6 +13,8 @@ Auteurs:
 
 ### Démonstration
 
+#### _Exemple d'un algorithme de qui effectue la multiplication d'un nombre de 0 à 12_
+
 ![alt Demo](PythonAnim.gif)
 
 ---
